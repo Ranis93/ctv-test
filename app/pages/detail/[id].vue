@@ -74,6 +74,7 @@ fetchEl()
 
 <style lang="scss" scoped>
 .detail-page{
+  max-width: 1440px;
   margin: 0 auto;
   &__content{
     padding: 136px 213px;
