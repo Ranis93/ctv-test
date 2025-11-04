@@ -1,0 +1,337 @@
+/* Futura PT - Основное семейство */
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-Book.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-BookObl.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-LightObl.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-MediumObl.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-Demi.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-DemiObl.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-BoldObl.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-ExtraBoldObl.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  src: url('~/assets/fonts/FuturaPT/FuturaPT-HeavyObl.ttf') format('truetype');
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Futura PT Condensed - Суженное семейство */
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-Book.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-BookObl.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-MediumObl.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-BoldObl.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Condensed';
+  src: url('~/assets/fonts/FuturaPT/FuturaPTCond-ExtraBoldObl.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Source Sans 3 - Статические шрифты */
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('~/assets/fonts/SourceSans3/static/SourceSans3-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Source Sans 3 - Переменные шрифты */
+@font-face {
+  font-family: 'Source Sans 3 Variable';
+  src: url('~/assets/fonts/SourceSans3/SourceSans3-VariableFont_wght.ttf') format('truetype');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans 3 Variable';
+  src: url('~/assets/fonts/SourceSans3/SourceSans3-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* CSS переменные */
+:root {
+  --font-futura-pt: 'Futura PT', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-futura-pt-condensed: 'Futura PT Condensed', -apple-system, BlinkMacSystemFont, sans-serif;
+   --font-source-sans: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-source-sans-variable: 'Source Sans 3 Variable', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Базовые стили */
+body {
+  font-family: var(--font-futura-pt);
+  font-weight: 400;
+}
